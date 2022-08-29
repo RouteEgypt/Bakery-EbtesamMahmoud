@@ -1,0 +1,338 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.nav
+{
+    color: white;
+ 
+}
+.nav .logo
+{
+    float: left;
+    margin-top: 20px;
+    padding-left: 30px;
+    
+}
+.nav .logo img
+{
+    width: 50%;
+}
+.nav .tex
+{
+    float: right;
+    font-weight: bold;
+    margin-right: 80px;
+    margin-top: 40px;
+}
+.nav li
+{
+    list-style-type: none;
+}
+.nav a
+{
+    text-decoration: none;
+    color: white;
+
+}
+
+.header
+{
+    background-image: url(drew-coffman-1872.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    text-align: center;
+    font-family: 'Segoe UI Light', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+
+    
+}
+.header .cont
+{
+ padding-top: 100px;
+ margin: auto;
+}
+.header .cont h1
+{
+    font-size: 50px;
+    font-weight: 400;
+}
+.header .cont p
+{
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.header .cont .btn
+{
+    padding: 15px 28px;
+}
+.btn {
+    font-size: 16px;
+    padding: 15px 28px;
+    margin-top: 50px;
+    color: white;
+    border-radius: 4px;
+    
+    
+}
+.header .cont .btn1
+{
+    background-color: #8e7754;
+   border-color: unset;
+}
+.header .cont .btn2
+{
+    background-color: unset;
+    border-color: white;
+}
+.clear-fix
+{
+    clear: both;
+}
+/* .sec1
+{
+    padding-top: 50px;
+}
+.sec1 .photo
+{
+    float: left;
+    
+    padding-bottom: 50px;
+   
+}
+.sec1 .photo img
+{
+    width: 70%;
+}
+.sec1 .con
+{
+    float: right;
+    font-family: 'Segoe UI';
+    color: rgb(92, 74, 53);
+    margin-right: 30px;
+} */
+
+ .sec2
+{
+    width: 50%;
+    float: left;
+    padding-top: 50px;
+    font-family: 'Segoe UI';
+    line-height: 30px;
+}
+.sec2 img
+{
+    width: 70%;
+    padding-left: 90px;
+    padding-bottom: 50px;
+}
+.sec2 p
+{
+    font-size: 17px;
+    font-weight: 400;
+    color: #686868;
+   
+
+}  
+.sec2 h2
+{
+    font-size: 30px;
+    color: #303030;
+    font-weight: 400;
+    padding-top: 60px;
+
+}
+
+
+.pareent
+{
+    background-color: rgb(245, 245, 245);
+} 
+
+.sec3
+{
+    width: 50%;
+    float: left;
+    padding-top: 70px;
+    font-family: 'Segoe UI';
+    line-height: 30px;
+    
+    
+
+}
+.sec3 img
+{
+    width: 70%;
+    padding-left: 70px;
+    padding-bottom: 50px;
+
+}
+.sec3 p
+{
+    font-size: 17px;
+    font-weight: 400;
+    color: #686868;
+    padding-left: 100px;
+
+}
+.sec3 h2
+{
+    font-size: 30px;
+    color: #303030;
+    font-weight: 400;
+    padding-top: 60px;
+    padding-left: 100px;
+
+}
+.parent3 h2
+{
+    padding-top: 60px;
+    text-align: center;
+    font-size: 30px;
+    color: #303030;
+    font-weight: 400;
+
+}
+.parent3 p
+{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 17px;
+    color: #888;
+
+}
+
+.sec4
+{
+    width: 33.33%;
+    float: left;
+    padding-top: 50px;
+    font-family: 'Segoe UI';
+    text-align: center;
+    line-height: 30px;
+    
+
+}
+.sec4 h3
+{
+    padding-top: 30px;
+    font-weight: 400;
+    color:#303030;
+    font-size: 22px;
+}
+.sec4 p
+{
+    font-size: 17px;
+    color: #686868;
+    padding: 20px 50px; 
+}
+.sec4 img
+{
+    width: 70%;
+
+}
+.sec5
+{
+   margin-top: 50px;
+   background-color: rgb(245, 245, 245);
+   padding: 70px 0px;
+   line-height: 30px;
+   
+}
+.sec5 .item1
+{
+    float: left;
+    padding-left: 90px;
+   
+}
+.sec5 .item1 p
+{
+    padding-top: 20px;
+    font-size: 17px;
+    color: #686868;
+    line-height: 30px;
+
+}
+.sec5 .item1 h2
+{
+    color: #303030;
+    font-weight: 400;
+    font-size: 30px;
+}
+.sec5 .item2
+{
+   
+   float: right; 
+   padding-left: 90px;
+   
+}
+.sec5 .item2 img
+{
+    width: 80%;
+}
+
+.sec6
+{
+    background-color: #403d38;
+    padding-top: 60px;
+    background-image: url(contact-details-map.png);
+    background-position: right center;
+    background-repeat: no-repeat;
+    line-height: 30px;
+    
+}
+.sec6 h3
+{
+    color: white;
+    font-size: 18px;
+    font-weight: 200;
+}
+.sec6 li
+{
+    font-size: 16px;
+    color:#969696;
+    padding-top: 30px;
+    list-style-type: none;
+}
+.sec6 p
+{
+    font-size: 16px;
+    color:#969696;
+    padding-top: 30px;
+    list-style-type: none;
+}
+.item6
+{
+    float: left;
+    width: 20%;
+    padding-left: 70px;
+    padding-bottom: 60px;
+}
+.item6 .brdr
+{
+    background-color: #4f4e4e;
+    height: 2px;
+}
+.footer
+{
+    background-color: #353330;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    color: #777;
+    font-size: 15px;
+    line-height: 30px;
+}
+.footer img
+{
+    padding-top: 30px;
+}
+.footer p
+{
+    padding-top: 30px;
+}
+
+
